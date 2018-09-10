@@ -5,5 +5,5 @@ class Employees extends BootstrapEndpoint
     /**
      * @var string
      */
-    public $uri = 'employees/?per_page=500';
+    public $uri = 'employees/';
 }
